@@ -1,4 +1,4 @@
-<h2 style="display: flex"><img width='25px' src='https://lucassiq31.github.io/loginGoogle/img/icon.png'/> Login Google</h2>
+<h2 style="display: flex"><img width='25px' src='https://lucassiq31.github.io/loginGoogle/img/google.png'/> Login Google</h2>
 
 - Projeto desenvolvido a partir da Atividade de Design de Código do curso de Engenharia de Software
 
